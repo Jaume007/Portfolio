@@ -51,6 +51,15 @@ include_once "head.php";
                         <a href="projects/Problem6.php" download="">Download</a>
                     </div>
                 </div>
+                <div class="content_imagetext">
+                    <h1>Testimonials</h1>
+                    <h3>Jesus Liz</h3>
+                    <p><pre><q>No matters how difficult a problem is, Jaume will solve it eventually.</q></pre></p>
+                    <h3>Ruben Vilches</h3>
+                    <p><pre><q>Jaume has no problem working in a team, he adapts to every teammate's peronality.</q></pre></p>
+
+
+                </div>
 
 
             </div>
